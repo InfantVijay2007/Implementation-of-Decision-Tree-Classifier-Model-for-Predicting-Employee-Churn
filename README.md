@@ -147,7 +147,9 @@ display(importances)
 
 <img width="1363" height="445" alt="Screenshot 2026-08-22 140653" src="https://github.com/user-attachments/assets/7b9b2237-ca91-4d4e-b84e-f1b64231dd1b" />
 
-![decision tree classifier model](sam.png)
+<img width="1300" height="828" alt="image" src="https://github.com/user-attachments/assets/0b27d6f1-a1cb-4dcd-b213-e2639fabf09a" />
+
+<img width="392" height="297" alt="image" src="https://github.com/user-attachments/assets/69dad1b4-57f4-42eb-aa9f-b35712ecf095" />
 
 
 ## Result:
